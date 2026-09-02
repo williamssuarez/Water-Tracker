@@ -86,3 +86,11 @@
 ES: Esta aplicacion solo fue desarrollada para que el creador lleve control de su consumo de agua. Sin embargo fue publicada para todos debido a que el desarrollador siente que podria serle util a otras personas
 
 EN: This application was originally developed solely for the creator to track their own water consumption. However, it was released to the public because the developer felt it could be useful to others.
+
+---
+
+## 📄 License / Licencia
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+*Este proyecto está bajo la Licencia Apache 2.0; consulta el archivo [LICENSE](LICENSE) para más detalles.*
