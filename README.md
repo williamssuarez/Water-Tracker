@@ -78,3 +78,11 @@
    ```bash
    gradle :app:testDebugUnitTest
    ```
+
+---
+
+## Notas de Desarrollador / Developer Notes
+
+ES: Esta aplicacion solo fue desarrollada para que el creador lleve control de su consumo de agua. Sin embargo fue publicada para todos debido a que el desarrollador siente que podria serle util a otras personas
+
+EN: This application was originally developed solely for the creator to track their own water consumption. However, it was released to the public because the developer felt it could be useful to others.
