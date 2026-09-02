@@ -67,7 +67,7 @@
 
 1. Clone this repository / *Clona el repositorio*:
    ```bash
-   git clone https://github.com/your-username/water-tracker.git
+   git clone https://github.com/williamssuarez/Water-Tracker.git
    cd water-tracker
    ```
 2. Build the debug APK with Gradle / *Compila el APK con Gradle*:
