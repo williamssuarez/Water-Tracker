@@ -63,6 +63,38 @@
 
 ---
 
+## 📱 Download & Installation / Descarga e Instalación
+
+### 🇺🇸 For Everyday Users (No coding required)
+
+To install **Water Tracker / HydroFlow** on your Android phone:
+
+1. **Download the APK**:
+   - Go to the **[Releases](../../releases)** tab on GitHub (or download `releases/HydroFlow-v1.0.apk` from this repository) directly from your phone's browser.
+   - Alternatively, in Google AI Studio, you can generate and download the APK directly from the project settings menu.
+2. **Enable Unknown Apps**:
+   - When prompted that the file might be harmful, tap **"Download anyway"** (this is a standard Android warning for apps downloaded outside Google Play).
+   - Once downloaded, tap the file to open it. If your browser asks for permission, tap **Settings** and toggle on **"Allow from this source"**.
+3. **Install & Enjoy**:
+   - Tap **"Install"**, open the app, and start tracking your daily hydration!
+
+---
+
+### 🇪🇸 Para Usuarios (Sin necesidad de programar)
+
+Para instalar **Seguidor de Hidratación / HydroFlow** en tu teléfono Android:
+
+1. **Descarga el APK**:
+   - Ve a la sección de **[Releases](../../releases)** en GitHub (o descarga el archivo `releases/HydroFlow-v1.0.apk` desde este repositorio) directamente desde el navegador de tu celular.
+   - O bien, desde Google AI Studio, puedes exportar y descargar el APK directamente desde el menú de configuración.
+2. **Permitir Aplicaciones Desconocidas**:
+   - Si el navegador te advierte que el archivo puede ser dañino, pulsa en **"Descargar de todos modos"** (es una advertencia estándar de Android para apps fuera de Google Play).
+   - Abre el archivo descargado. Si Android te pide permisos, pulsa en **Ajustes / Configuración** y activa la opción **"Permitir desde esta fuente"**.
+3. **Instala y Disfruta**:
+   - Pulsa en **"Instalar"**, abre la aplicación ¡y comienza a registrar tu hidratación diaria!
+
+---
+
 ## 🚀 Building & Running / Compilación y Ejecución
 
 1. Clone this repository / *Clona el repositorio*:
